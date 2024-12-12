@@ -6,3 +6,7 @@ this github create for to train a start Game Developers, this Engine it will be 
 My own Engine programing on the Eseyer programming language Python
 
 Rangine can work with 3D & 2D, UI, Mini Eff Engine, Camera Effects, Blender Models, And Servers
+
+
+
+recommended to Raspberry pi Add ssd and fans
